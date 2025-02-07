@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	box-sizing: border-box; 
+}
+body {
+	background: url("brandlogo.jpg") no-repeat center top; background-size: 100vw 105vh;
+	
+}
+#foot{
+	color: white;
+}
+#h1{
+	color: white;
+	background-color: black;
+}
+#container{
+	width: 800px;
+	margin: 0 auto;
+	
+}
+.left{
+	width:380px;
+	height: 200px;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 20px;
+	float: left;
+	margin: 0px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	border: solid thick 5px black;
+}
+.right{
+	width:380px;
+	height: 200px;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 20px;
+	float: left;
+	margin: 0px 0px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	border: solid thick 5px black;
+	}
+/*.center{
+	width:380px;
+	height: 200px;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 20px;
+	float: center;
+	margin: 0px 0px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	border: solid thick 6px black;
+	
+	
+}**/
+footer{
+	background-color:rgba(255,255,255,0.5);
+	clear: both;
+}
