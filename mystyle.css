@@ -4,7 +4,7 @@
 	box-sizing: border-box; 
 }
 body {
-	background: url("brandlogo.jpg") no-repeat center top; background-size: 100vw 105vh;
+	background: url("websitebackgrounde.jpg") no-repeat center top; background-size: 100vw 105vh;
 	
 }
 #foot{
@@ -18,6 +18,32 @@ body {
 	width: 800px;
 	margin: 0 auto;
 	
+}
+.center{
+	width: 175px;
+	height: 150px;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 20px;
+	float: left;
+	margin: 0px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	border: solid thick 5px black;
+
+
+}
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.center a:link{
+	color: orangered;
+	text-decoration: none;
+}
+.center a:hover{
+	font-size: 1.2em;
 }
 .left{
 	width:380px;
